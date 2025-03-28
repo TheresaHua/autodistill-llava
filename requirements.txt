@@ -4,5 +4,5 @@ accelerate
 bitsandbytes
 sentencepiece
 einops
-transformers
+transformers==4.37.2
 protobuf
